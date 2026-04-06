@@ -8,6 +8,8 @@ A **Vibe-coded** tool for generating and visualizing Archimedean spirals. Design
 ## 🚀 Overview
 The Archimedean Spiral Compass allows users to parametrically define spirals by adjusting radii and segment counts. It provides real-time visualization and exports the geometry as a DXF (Drawing Exchange Format) file. When used within Fusion 360, it provides a "One-Click Import" experience to turn your mathematical spirals into editable sketches.
 
+![Archimedean Spiral Compass Interface inside Fusion360](Screenshot.png)
+
 ## ✨ Key Features
 * **Parametric Control**: Adjust start/end radii, radial segments (spiral turns), and rotational segments (resolution).
 * **Live Preview**: Real-time 2D canvas visualization with measurement overlays.
@@ -36,7 +38,7 @@ The Archimedean Spiral Compass allows users to parametrically define spirals by 
 * **Inner Radius (mm)**: The starting distance from the center.
 * **Outer Radius (mm)**: The maximum extent of the spiral.
 * **Radial Segments**: Controls the number of full rotations (e.g., 2.0 = two full turns).
-* **Rotational Segments**: Defines the smoothness of the curve (higher = smoother).
+* **Rotational Segments**: Defines the smoothness of the curve (higher = smoother). (Currently broken, only 12 segments work at the moment)
 
 ### Direct Import
 Click **"Import into Fusion 360"**. The add-in will prompt you to select a plane or planar face in your active design. Once selected, the spiral is automatically generated as a sketch.
