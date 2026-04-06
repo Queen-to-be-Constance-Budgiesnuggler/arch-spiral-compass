@@ -2,7 +2,7 @@
 
 A **Vibe-coded** tool for generating and visualizing Archimedean spirals. Designed as a standalone web application and a seamless add-in integration for **Autodesk Fusion 360**.
 
-**Completely programmed by AI - Original idea and work in process by me** - I actually have no idea of what im doing, I just needed a tool for very weird loft function where I just haven't completely decided on the final shape yet.
+**Completely programmed by AI - Original idea and work in process by me** - I actually have no idea of what i'm doing, I just needed a tool for very weird loft function where I just haven't completely decided on the final shape yet.
 
 - Feel free to use, edit and share as you like.
 
