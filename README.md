@@ -1,6 +1,7 @@
 # Archimedean Spiral Compass
 
-A specialized tool for generating and visualizing Archimedean spirals. Designed as a standalone web application and a seamless integration for **Autodesk Fusion 360**.
+A Vibe-coded tool for generating and visualizing Archimedean spirals. Designed as a standalone web application and a seamless integration for **Autodesk Fusion 360**.
+**Completely programmed by AI - Original idea and work in proccess by me**
 
 ---
 
