@@ -63,6 +63,7 @@ Click **"Import into Fusion 360"**. The add-in will prompt you to select a plane
 * **Shared Scope**: compass.js manages the global appState. fusion360.js depends on this state for DXF generation.
 * **The Bridge**: Communication between the UI (JavaScript) and Fusion 360 (Python) is handled via adsk.fusionSendData.
 * **Canvas Scaling**: The visualization utilizes window.devicePixelRatio for high-resolution rendering on Retina and 4K displays.
+* **What is this really?**: I've been asking myself this question for some time now, while working on my practical math skills in relation to manual machining. And I haven't yet met anyone who can tell me what my hand drawn notes of my visions represent. But then the other day I stumbled upon an exclicon looking for technical hand drawing tools online. I haven't yet had the time to look into it. So I think I'm making some kind of digital plug and play multitool for technical drawings... But then again, I have actually no idea what my hand drawn notes actually mean yet...
 
 ---
 *Developed for parametric design and mathematical exploration*
